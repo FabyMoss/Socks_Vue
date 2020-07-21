@@ -1,0 +1,20 @@
+.color-box {
+    width: 40px;
+    height: 25px;
+    margin-top: 5px;
+}
+.disableButton {
+    background-color: #d8d8d8
+}
+.disableButton1 {
+    background-color: #d8d8d8
+}
+.inStock{
+    background-color: blue;
+}
+.outOfStock {
+    text-decoration: line-through
+}
+.selectedTab {
+    font-style: italic;
+}
